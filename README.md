@@ -28,6 +28,6 @@ Tạo tài khoản github.com
 
 Nộp mã nguồn vào link: https://classroom.github.com/a/aqgKBlVe
 
-## Bài tập tuấn 2:
+## Bài tập tuần 2:
 
 Nộp mã nguồn vào link: https://classroom.github.com/a/xvOu8VAv
