@@ -26,4 +26,8 @@ Viết chương trình HelloWorld bằng Java
 
 Tạo tài khoản github.com
 
-Nộp mã nguồn vào link: https://classroom.github.com/a/k4n0Qrf_
+Nộp mã nguồn vào link: https://classroom.github.com/a/aqgKBlVe
+
+## Bài tập tuần 2:
+
+Nộp mã nguồn vào link: https://classroom.github.com/a/xvOu8VAv
