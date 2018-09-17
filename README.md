@@ -30,15 +30,15 @@ Tạo tài khoản github.com
 
 https://classroom.github.com/a/aqgKBlVe
 
-## Bài tập Lab 2:
+## Bài tập Lab02:
 
 https://classroom.github.com/a/xvOu8VAv
 
-## Bài tập Lab 3:
+## Bài tập Lab03:
 
 https://classroom.github.com/a/N69_YH3S
 
-## Bài tập Lab 04:
+## Bài tập Lab04:
 
 https://classroom.github.com/a/DmKczwcf
 
