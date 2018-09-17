@@ -20,7 +20,7 @@ Có thể tham khảo cách sử dụng: https://o7planning.org/vi/10283/huong-d
 
 https://github.com/UET-INT2204-10-fall-18/Information/blob/master/lab/All_Lab.pdf
 
-## Bài tập tuần 1:
+## Bài tập Lab 1:
 
 ### Yêu cầu:
 
@@ -28,8 +28,24 @@ Viết chương trình HelloWorld bằng Java
 
 Tạo tài khoản github.com
 
-Nộp mã nguồn vào link: https://classroom.github.com/a/aqgKBlVe
+https://classroom.github.com/a/aqgKBlVe
 
-## Bài tập tuần 2:
+## Bài tập Lab 2:
 
-Nộp mã nguồn vào link: https://classroom.github.com/a/xvOu8VAv
+https://classroom.github.com/a/xvOu8VAv
+
+## Bài tập Lab 3:
+
+https://classroom.github.com/a/N69_YH3S
+
+## Bài tập Lab 04:
+
+https://classroom.github.com/a/DmKczwcf
+
+## Bài tập Lab05:
+
+https://classroom.github.com/a/xwlfcBnh
+
+## Bài tập Lab06
+
+https://classroom.github.com/a/4Y4flXZQ
